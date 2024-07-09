@@ -5,6 +5,7 @@ import router from "../router";
 import { initializeApp } from "firebase/app";
 // dotenv.config();
 const firebaseConfig = {
+  apiKey: "AIzaSyBWJCLWaMjWR8wS09gME1SC3Xlurh9YtgA",
   authDomain: "quizapp-95097.firebaseapp.com",
   projectId: "quizapp-95097",
   storageBucket: "quizapp-95097.appspot.com",
